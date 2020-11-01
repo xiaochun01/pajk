@@ -1,0 +1,6 @@
+2020-10-25 12:27:57,541 - API_TEST_LOG - INFO - 开始验证是否能正常获取token_id
+2020-10-25 12:27:57,669 - API_TEST_LOG - INFO - 开始验证是否能正常获取token_id
+2020-10-25 12:27:57,755 - API_TEST_LOG - INFO - case01 验证get_access_token接口能否成功调用 --开始执行--11111
+2020-10-25 12:27:57,755 - API_TEST_LOG - INFO - 开始验证是否能正常获取token_id
+2020-10-25 12:27:57,904 - API_TEST_LOG - INFO - 开始验证是否能正常获取token_id
+2020-10-25 12:27:58,108 - API_TEST_LOG - INFO - 开始验证是否能正常获取token_id

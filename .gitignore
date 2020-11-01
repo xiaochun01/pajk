@@ -1,0 +1,5 @@
+/logs/*.lock
+/logs/*.log
+
+/reports/API_TEST_V*
+/.idea/
